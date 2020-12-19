@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/cusco1982/digitalOcean/issues"
   },
-  "homepage": "https://github.com/cusco1982/digitalOcean#readme"
+  "homepage": "https://github.com/cusco1982/digitalOcean#readme",
+  "dependencies": {}
 }
