@@ -2,6 +2,7 @@
     margin:0px;
     padding:0px;
     box-sizing:border-box;
+
 }
 
 nav{
@@ -107,4 +108,51 @@ nav{
 }
 .toggle .line3{
     transform: rotate(45deg) translate(-5px,-6px);
+}
+
+/* -------------------------------------------------------- */
+
+.main{
+height:100vh;
+    width: 100%;
+    background: url('../images/header.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+
+color:white;
+}
+
+
+.Landing{
+    background-color: black;
+    height:600px;
+}
+
+.Projects{
+    background-color: yellow;
+    height:600px;
+
+
+
+
+}
+
+.Contact{
+    background-color: red;
+    height:600px;
+
+
+
+
+}
+
+.About{
+    background-color: blue;    
+    height:600px;
+
+
+
 }
