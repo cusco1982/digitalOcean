@@ -1,2 +1,8 @@
 # digitalOcean
-edited Digital Ocean landing template.
+
+
+wjbest mock simple html/css
+
+index.html
+style.css
+app.js
